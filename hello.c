@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	print("hello\n");
+	print("hello world\n");
 	return 0;
 }
 
